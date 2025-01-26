@@ -1,6 +1,6 @@
 # ManishDev06 Neovim Setup 🌱
 
-This is a custom Neovim configuration designed to enhance your development experience. It includes a variety of plugins, options, keymaps, and autocommands, all tailored to provide a smooth and efficient workflow. 🚀
+This is my personal Neovim setup,  this config provides a clean and asthetic interface.
 
 ## 📸 Screenshots
 
