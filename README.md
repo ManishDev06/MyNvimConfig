@@ -53,6 +53,3 @@ This is my personal Neovim setup,  this config provides a clean and asthetic int
 
 4. Once inside Neovim, plugins will be automatically installed and configured. 🛠️
 
-## License 📝
-
-This configuration is free to use and modify under the MIT license. Contributions are welcome! 💡
